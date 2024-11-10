@@ -1,4 +1,4 @@
-package org.example.webapplication;
+package org.example.webapplication.controller;
 
 import org.example.webapplication.domain.Task;
 import org.example.webapplication.repos.TasksRepository;

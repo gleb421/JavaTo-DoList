@@ -1,4 +1,5 @@
 package org.example.webapplication.domain;
 
-public class Role {
+public enum Role {
+    USER;
 }
